@@ -8,7 +8,7 @@ document.getElementById('btn').addEventListener("click" , function(event){
     const div= document.createElement("div");
     div.innerHTML = `
     
-    <div class="card bg-base-300 w-96 shadow-lg">
+    <div class="card bg-base-100 w-full shadow-lg">
   <figure class="px-10 pt-10">
     <img
       src=${img}
